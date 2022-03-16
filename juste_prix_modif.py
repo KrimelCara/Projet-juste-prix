@@ -80,4 +80,4 @@ elif lvl == 3:
          
        else:
          print(F"Vous avez utilisé vos essais en vain.")
-         print(F"le juste prix était", juste_prix)
+         print(F"le juste prix étaitt", juste_prix)
